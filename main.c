@@ -3,7 +3,7 @@
 
 
 int main() {
-    showMenuDatabase();
+    startDb();
     return 0;
 }
 

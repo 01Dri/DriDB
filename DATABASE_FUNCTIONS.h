@@ -6,7 +6,7 @@ void showTables();
 void showDatabaseOption();
 bool existDatabase(char stringConnection[]);
 void connectDb(char stringConnection[]);
-void showMenuDatabase();
+void startDb();
 char* parseStringConnection(char stringConnection[]);
 
 #endif  // DATABASE_FUNCTIONS_H
